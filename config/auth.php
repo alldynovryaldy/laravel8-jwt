@@ -42,7 +42,7 @@ return [
       ],
 
       // config jwt
-      'aspi' => [
+      'api' => [
          // guard "api"
          // driver "jwt"
          'driver' => 'jwt',
